@@ -1,0 +1,7 @@
+::ng-deep angular-editor-toolbar button i {
+  font-family: FontAwesome !important;
+}
+
+.img-preview {
+  height: 260px;
+}
